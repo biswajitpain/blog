@@ -1,2 +1,2 @@
-# bpcse.github.io
+# A tale about tech
 Personal webpages
